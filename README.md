@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @bart-luckhurst
 - ✨ I'm a passionate .NET and AI developer
-- 🔠 Also, a bit of a linguistic nerd
+- 🎬🔠 A passion for 3d and linguistics
